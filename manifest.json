@@ -1,11 +1,11 @@
 {
-    "name": "qr_generator",
-    "short_name": "qr_generator",
+    "name": "Internal Tool @ WTM HCMC",
+    "short_name": "Internal Tool @ WTM HCMC",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A tool used for WTM HCMC team's operations.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
